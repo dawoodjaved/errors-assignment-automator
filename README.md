@@ -74,7 +74,14 @@ AI-powered insights to suggest the most likely responsible user for a given Airb
 
 👉 This will speed up triage, reduce guesswork, and get the right eyes on the issue faster.  
 
----
+-------------------------------
+<img width="1320" height="600" alt="image (1)" src="https://github.com/user-attachments/assets/40b68e42-6954-4ae6-8b5e-bb5b18c09d26" />
+
+<img width="1536" height="610" alt="image (2)" src="https://github.com/user-attachments/assets/093030db-acbd-4ab3-b035-a5d1a8064dba" />
+
+<img width="2780" height="1042" alt="image" src="https://github.com/user-attachments/assets/a5fe2680-836f-4b5c-bce1-06466859755d" />
+
+<img width="1278" height="814" alt="image" src="https://github.com/user-attachments/assets/15ae855f-b3a9-45be-bf6f-c2571c767610" />
 
 ## 💡 Feedback
 Have questions or suggestions?  
